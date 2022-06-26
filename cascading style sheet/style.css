@@ -1,0 +1,46 @@
+
+#main {
+    background-color: blanchedalmond;
+}
+div {
+    text-align: center;
+}
+h1 {
+    color: rgb(0, 0, 0);
+    background-color: aquamarine;
+    size: 1px;
+}
+#login:hover{
+    background-color: rgb(0, 0, 0);
+    color: rgb(246, 246, 246);
+}
+#login:visited{
+    color: rgb(27, 22, 16);
+}
+fieldset {
+    background-color: aqua;
+}
+body{
+    background-color: rgb(27, 190, 190);
+}
+p {
+    color: rgb(30, 0, 120);
+    background-color: ;
+}
+input[type=checkbox] {
+    accent-color: rgb(0, 255, 0);
+}
+input[type=radio] {
+    accent-color: blue;
+}
+select {
+   accent-color: black;
+   color:aqua;
+   background-color: brown;
+}
+option
+
+
+{
+    background-color: blue;
+}
